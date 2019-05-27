@@ -1,0 +1,26 @@
+{
+  "name": "storybook-css-addon",
+  "version": "1.0.0",
+  "description": "Storybook CSS Addon",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jusufazer/storybook-css-addon-code.git"
+  },
+  "author": "jusufcodes@gmail.com",
+  "license": "unlicense",
+  "dependencies": {
+    "@storybook/addons": "^5.0.11",
+    "@storybook/core-events": "^5.0.11",
+    "react": "^16.8.6",
+    "react-syntax-highlighter": "^10.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/jusufazer/storybook-css-addon-code/issues"
+  },
+  "homepage": "https://github.com/jusufazer/storybook-css-addon-code#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
